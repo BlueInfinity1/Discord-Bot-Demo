@@ -43,4 +43,6 @@ Once the bot is running, you can use the following command in any Discord server
 !weather London
 `
 
+## Screenshot
+
 ![Discord Weather Bot](https://drive.google.com/uc?export=view&id=114J-zoPspTxxV0y84dNga5_Evd03cPPr)
