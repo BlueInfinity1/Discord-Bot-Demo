@@ -1,5 +1,3 @@
-![Discord Weather Bot](https://drive.google.com/uc?export=view&id=114J-zoPspTxxV0y84dNga5_Evd03cPPr)
-
 # Discord Weather Bot
 
 A simple Discord bot that fetches real-time weather updates using the **OpenWeatherMap API**.
@@ -44,3 +42,5 @@ Once the bot is running, you can use the following command in any Discord server
 `
 !weather London
 `
+
+![Discord Weather Bot](https://drive.google.com/uc?export=view&id=114J-zoPspTxxV0y84dNga5_Evd03cPPr)
