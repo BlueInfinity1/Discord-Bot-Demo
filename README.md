@@ -1,3 +1,5 @@
+![Discord Weather Bot](https://drive.google.com/uc?export=view&id=114J-zoPspTxxV0y84dNga5_Evd03cPPr)
+
 # Discord Weather Bot
 
 A simple Discord bot that fetches real-time weather updates using the **OpenWeatherMap API**.
